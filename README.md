@@ -41,7 +41,7 @@ It converts assembly code into machine code in hexadecimal format.
 ## Usage
 
 ```bash
-python assembler.py input.asm output.txt
+python assembler.py input.txt output.txt
 ```
 
 ---
