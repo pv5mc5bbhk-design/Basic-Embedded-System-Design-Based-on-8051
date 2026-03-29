@@ -88,7 +88,7 @@ offset = target_address - next_PC
 
 ```
 assembler.py      # main assembler
-Test01.txt        # sample input
+Test01.txt        # sample input(contact me)
 README.md         # documentation
 ```
 
